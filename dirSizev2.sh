@@ -1,5 +1,5 @@
 #!/bin/bash 
-############################## Colores // CREADO POR ANDRES CAMARA
+############################## Colores // CREADO POR CiberDosis
 greenColour="\e[0;32m\033[1m"
 purpleColour="\e[0;35m\033[1m"
 turquoiseColour="\e[0;36m\033[1m"
